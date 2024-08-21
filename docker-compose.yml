@@ -1,0 +1,9 @@
+version: '3'
+services:
+  webapplcation:
+    image: capstone-app-nginx
+    container_name: capstone-container-application
+    ports:
+      - '7070:80'
+    volumes:
+      - /app:/app
