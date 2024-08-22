@@ -1,4 +1,4 @@
-Git Repo URL - 
-Depoyed Site URL - 
-Docker - DEV Image (Public) -
-Docker - PROD Image (Private) -
+Git Repo URL - https://github.com/naveensrepo0120/Capstone-Project.git
+Depoyed Site URL - http://ec2-13-202-78-16.ap-south-1.compute.amazonaws.com/
+Docker - DEV Image (Public) - docker pull naveen3101/dev-capstone-doc:latest
+Docker - PROD Image (Private) - docker pull naveen3101/prod-capstone-doc:latest
