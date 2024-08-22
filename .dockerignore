@@ -8,10 +8,6 @@ node_modules/
 # Ignore environment files
 .env
 
-# Ignore build output directories (not needed in base image)
-build/
-dist/
-
 # Ignore Dockerfile (not needed inside the image)
 Dockerfile
 
