@@ -1,7 +1,7 @@
 version: '3'
 services:
   webapplcation:
-    image: capstone-app-nginx
+    image: naveen3101/dev-capstone-doc:latest
     container_name: capstone-container-application
     ports:
       - '7070:80'
